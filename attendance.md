@@ -1,4 +1,5 @@
 # Today's Attendance
 
 - Ahmed Moustafa
-- Ruqaya Mowafi 
+- Ruqaya Mowafi
+- Emma Michael
